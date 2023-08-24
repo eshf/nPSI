@@ -22,6 +22,7 @@ Install Boost Can be obtained from: https://www.boost.org/users/download/ Asio f
 Miracl Windows: open PowerShell, cd ./thirdparty, and .\all_win.ps1 (the script works with Visual Studio 2015. For other version, you should modify MSBuild at several places in the script.) Linux:
 
 a. cd ./thirdparty/linuxmiracl/miracl/source bash linux64 
+
 b. cd ./thirdparty/linux/miracl/miracl_osmt/source bash linux64_cpp
 
 NTL Linux: cd ./thirdparty/linux bash ntl.get
