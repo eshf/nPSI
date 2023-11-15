@@ -17,7 +17,8 @@ Latest Boost version is added to the repository.
 
 Libraries Needed:
 
-Install Boost Can be obtained from: https://www.boost.org/users/download/ Asio folder can be clone from https://github.com/boostorg/asio Preprocessor folder can be obtained from: https://github.com/boostorg/preprocessor
+Install Boost Can be obtained from: https://www.boost.org/users/download/ Asio folder can be clone from https://github.com/boostorg/asio 
+Preprocessor folder can be obtained from: https://github.com/boostorg/preprocessor
 
 Miracl Windows: open PowerShell, cd ./thirdparty, and .\all_win.ps1 (the script works with Visual Studio 2015. For other version, you should modify MSBuild at several places in the script.) Linux:
 
