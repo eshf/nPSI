@@ -1,7 +1,7 @@
 # NPSI
 Docker Compose Driver for osu-crypto (MultipartyPSI)
 
-Referenced from https://github.com/osu-crypto/MultipartyPSI/tree/implement
+Referenced from https://github.com/osu-crypto/MultipartyPSI/
 
 Programmable Oblivious PRF & multi-party PSI This is the implementation of our CCS 2017 paper: Practical Multi-party Private Set Intersection from Symmetric-Key Techniques[ePrint].
 
